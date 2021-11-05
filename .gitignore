@@ -1,0 +1,32 @@
+### Logs
+npm-debug.log
+.DS_Store
+/logs
+127.0.0.1
+
+### Compiled
+/dist
+/tmp
+
+### Dependencies
+/node_modules
+.env
+
+### IDEs
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+
+### nyc outputs
+.nyc_output
+alternative
+
+.drone.sec.yml
+
+### DB tools
+/dev/db
